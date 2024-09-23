@@ -1,8 +1,10 @@
-# cognitive-engineering-path/
+# cognitive-engineering-path
 
 이 로드맵은 컴퓨터 과학, 데이터 엔지니어링, 머신러닝 및 인지과학과 관련된 특별 토픽들을 단계별로 학습할 수 있도록 합니다.
 
-로드맵은 수학과 논리학을 기반으로 기초를 쌓은 후, 소프트웨어 개발, 데이터 엔지니어링, 인공지능으로 넘어가는 구조로 되어 있습니다. 마지막 단계에서는 프롬프트 엔지니어링, 신경과학, 과학 철학과 같은 주제 또한 학습하고자 합니다.
+수학과 논리학을 기반으로 기초를 쌓은 후, 소프트웨어 개발, 데이터 엔지니어링, 인공지능으로 넘어가는 구조로 되어 있습니다. 마지막 단계에서는 프롬프트 엔지니어링, 신경과학, 과학 철학과 같은 주제 또한 학습하고자 합니다.
+
+인지과학 원칙을 사용하여 학습 효율을 극대화할 수 있도록 설계했습니다.
 
 ---
 
@@ -19,6 +21,7 @@
 ## Step 1: **CS & Software Development**
 컴퓨터 과학의 기본적인 개념, 소프트웨어 개발 기술을 학습해 프로그래밍 능력과 컴퓨터 과학 지식을 쌓고자 합니다.
 
+- **쉘 스크립팅** : [쉘 스크립팅 학습하기](https://github.com/allenkang92/shell-scripting-starter.git)
 - **자료구조 & 알고리즘**: [자료구조와 알고리즘 학습하기](https://github.com/username/data-structures-algorithms)
 - **SQL 및 데이터베이스**: [SQL 및 데이터베이스 학습하기](https://github.com/username/sql-db)
 - **네트워크 기초**: [네트워크 학습하기](https://github.com/username/networking)
@@ -54,7 +57,7 @@
 ## Step 4: **Data Analytics & Visualization**
 이 단계에서는 데이터를 분석하고 최신 도구와 기술을 사용해 인사이트를 시각화하는 방법을 학습합니다.
 
-- **Tableau를 사용한 데이터 시각화**: [Tableau 학습하기](https://github.com/username/visualization-projects)
+- **데이터 시각화**: [시각화 학습하기](https://github.com/username/visualization-projects)
 - **OLAP 시스템**: [OLAP 학습하기](https://github.com/username/olap-systems)
 - **확률과 통계 복습**: [확률과 통계 복습하기](https://github.com/username/probability-statistics)
 - **Excel을 사용한 데이터 분석**: [Excel 학습하기](https://github.com/username/excel-analysis)
@@ -69,11 +72,6 @@
 - **과학 철학**: [과학 철학 학습하기](https://github.com/username/philosophy)
 - **실험 방법론**: [실험 방법론 학습하기](https://github.com/username/experimentation)
 - **논리학 및 추론 복습**: [논리학 복습하기](https://github.com/username/logic)
-
----
-
-### Learning Strategy: Cognitive Science Principles
-이 로드맵은 인지과학 원칙을 사용하여 학습 효율을 극대화하도록 설계되었습니다.
 
 ---
 

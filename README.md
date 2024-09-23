@@ -11,7 +11,7 @@
 ## Step 0: **Mathematics & Logic**
 수학과 논리학의 기초를 가지고 컴퓨터 과학, 알고리즘 및 머신러닝을 이해하는 데 필요한 기반을 구축합니다.
 
-- **미적분**: [미적분 학습하기](https://github.com/username/calculus)
+- ~~**미적분**: [미적분 학습하기](https://github.com/username/calculus)~~
 - **선형대수**: [선형대수 학습하기](https://github.com/username/linear-algebra)
 - **확률과 통계**: [확률과 통계 학습하기](https://github.com/username/probability-statistics)
 - **논리학**: [논리학 학습하기](https://github.com/username/logic)
@@ -22,8 +22,8 @@
 컴퓨터 과학의 기본적인 개념, 소프트웨어 개발 기술을 학습해 프로그래밍 능력과 컴퓨터 과학 지식을 쌓고자 합니다.
 
 - **쉘 스크립팅** : [쉘 스크립팅 학습하기](https://github.com/allenkang92/shell-scripting-starter.git)
+- **SQL 및 데이터베이스**: [SQL 및 데이터베이스 학습하기](https://github.com/allenkang92/database-basics.git)
 - **자료구조 & 알고리즘**: [자료구조와 알고리즘 학습하기](https://github.com/username/data-structures-algorithms)
-- **SQL 및 데이터베이스**: [SQL 및 데이터베이스 학습하기](https://github.com/username/sql-db)
 - **네트워크 기초**: [네트워크 학습하기](https://github.com/username/networking)
 - **파이썬 프로그래밍**: [파이썬 프로그래밍 학습하기](https://github.com/username/python-programming)
 - **자바 프로그래밍**: [자바 프로그래밍 학습하기](https://github.com/username/java)

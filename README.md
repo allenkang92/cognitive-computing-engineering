@@ -12,6 +12,7 @@
 - ~~**미적분**: [미적분 학습하기](https://github.com/username/calculus)~~
 - ~~**선형대수**: [선형대수 학습하기](https://github.com/username/linear-algebra)~~
 - ~~**확률과 통계**: [확률과 통계 학습하기](https://github.com/username/probability-statistics)~~
+- ~~**과학철학**: [과학 철학 학습하기](https://github.com/username/philosophy)~~
 - **논리학**: [논리학 학습하기](step_0_mathematics_logic/logic)
     - [Chapter 1: Introduction to Logical Thinking](step_0_mathematics_logic/logic/logical-thinking-chapter1.md)
     - [Chapter 2: Logical Reasoning](step_0_mathematics_logic/logic/logical-thinking-chapter2.md)
@@ -20,7 +21,7 @@
     - [Chapter 5: Fallacies and Arguments](step_0_mathematics_logic/logic/logical-thinking-chapter5.md)
     - [Chapter 6: Practical Applications](step_0_mathematics_logic/logic/logical-thinking-chapter6.md)
     - [Conclusion](step_0_mathematics_logic/logic/logical-thinking-conclusion.md)
-- ~~**실험방법론**: [실험 방법론 학습하기](https://github.com/username/experimentation)~~
+- ~~**연구방법론**: [연구방법론 학습하기](https://github.com/username/experimentation)~~
 
 ---
 
@@ -29,6 +30,7 @@
 
 - **쉘 스크립팅** : [쉘 스크립팅 학습하기](https://github.com/allenkang92/shell-scripting-starter.git)
 - **SQL 및 데이터베이스**: [SQL 및 데이터베이스 학습하기](https://github.com/allenkang92/database-basics.git)
+- ~~**운영체제**: [운영체제 학습하기](https://github.com/username/os)~~
 - ~~**자료구조 & 알고리즘**: [자료구조와 알고리즘 학습하기](https://github.com/username/data-structures-algorithms)~~
 - ~~**네트워크 기초**: [네트워크 학습하기](https://github.com/username/networking)~~
 - ~~**파이썬 프로그래밍**: [파이썬 프로그래밍 학습하기](https://github.com/username/python-programming)~~
@@ -36,6 +38,7 @@
 - ~~**컴퓨터 구조**: [컴퓨터 구조 학습하기](https://github.com/username/computer-architecture)~~
 - ~~**프로그래밍 개념**: [프로그래밍 개념 학습하기](https://github.com/username/programming-concepts)~~
 - ~~**웹 크롤링**: [웹 크롤링 학습하기](https://github.com/username/web-crawling)~~
+- ~~**버전 관리**: [깃을 통한 버전 관리 학습하기](https://github.com/username/version-control)~~
 
 ---
 
@@ -48,15 +51,17 @@
 - ~~**Docker 학습하기**: [Docker 학습하기](https://github.com/username/docker)~~
 - ~~**Kubernetes**: [Kubernetes 학습하기](https://github.com/username/kubernetes)~~
 - ~~**클라우드 컴퓨팅**: [클라우드 컴퓨팅 학습하기](https://github.com/username/cloud-computing)~~
+- ~~**데이터 웨어하우스**: [데이터 웨어하우스 학습하기](https://github.com/username/data-warehouse)~~
 - ~~**CI/CD 파이프라인**: [Jenkins 및 GitHub Actions를 사용한 CI/CD 학습하기](https://github.com/username/cicd-pipelines)~~
+- ~~**모니터링과 로그 분석**: [모니터링과 로그 분석 학습하기](https://github.com/username/monitoring-and-log-analysis)~~
 
 ---
 
 ## Step 3: **Machine Learning & AI**
 이 단계에서는 머신러닝 및 인공지능 모델을 구축하고 데이터를 분석하고 예측하는 방법을 학습합니다.
 
-- ~~**머신러닝**: [머신러닝 학습하기](https://github.com/username/machine-learning)~~
 - ~~**인공지능**: [인공지능 학습하기](https://github.com/username/artificial-intelligence)~~
+- ~~**머신러닝**: [머신러닝 학습하기](https://github.com/username/machine-learning)~~
 - ~~**딥러닝**: [딥러닝 학습하기](https://github.com/username/deep-learning)~~
 
 ---
@@ -72,11 +77,10 @@
 ---
 
 ## Step 5: **Specialized Topics**
-마지막 단계에서는 현대 컴퓨팅과 관련된 최첨단 주제들을 학습합니다.
+마지막 단계에서는 현대 컴퓨팅과 관련된 주제들을 학습합니다.
 
 - ~~**프롬프트 엔지니어링**: [프롬프트 엔지니어링 학습하기](https://github.com/username/prompt-engineering)~~
 - ~~**신경과학**: [신경과학 학습하기](https://github.com/username/neuroscience)~~
-- ~~**과학철학**: [과학 철학 학습하기](https://github.com/username/philosophy)~~
 - ~~**양자컴퓨팅**: [양자컴퓨팅 학습하기](https://github.com/username/quantum-computing)~~
 
 ---

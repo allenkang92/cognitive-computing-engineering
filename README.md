@@ -1,4 +1,4 @@
-# cognitive-engineering-path
+# Cognitive-Engineering-Path
 
 이 로드맵은 컴퓨터 과학, 데이터 엔지니어링, 머신러닝 및 인지과학과 관련된 특별 토픽들을 단계별로 학습할 수 있도록 합니다.
 

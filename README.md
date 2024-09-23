@@ -1,8 +1,6 @@
 # Cognitive-Engineering-Path
 
-이 로드맵은 컴퓨터 과학, 데이터 엔지니어링, 머신러닝 및 인지과학과 관련된 특별 토픽들을 단계별로 학습할 수 있도록 합니다.
-
-수학과 논리학을 기반으로 기초를 쌓은 후, 소프트웨어 개발, 데이터 엔지니어링, 인공지능으로 넘어가는 구조로 되어 있습니다. 마지막 단계에서는 프롬프트 엔지니어링, 신경과학, 과학 철학과 같은 주제 또한 학습하고자 합니다.
+이 로드맵은 컴퓨터 과학, 데이터 엔지니어링, 머신러닝 및 인지과학과 관련된 특별 토픽들을 단계별로 학습할 수 있도록 합니다. 수학과 논리학을 기반으로 기초를 쌓은 후, 소프트웨어 개발, 데이터 엔지니어링, 인공지능으로 넘어가는 구조로 되어 있습니다. 마지막 단계에서는 프롬프트 엔지니어링, 신경과학, 과학 철학과 같은 주제 또한 학습하고자 합니다.
 
 인지과학 원칙을 사용하여 학습 효율을 극대화할 수 있도록 설계했습니다.
 
@@ -22,6 +20,8 @@
     - [Chapter 5: Fallacies and Arguments](step_0_mathematics_logic/logic/logical-thinking-chapter5.md)
     - [Chapter 6: Practical Applications](step_0_mathematics_logic/logic/logical-thinking-chapter6.md)
     - [Conclusion](step_0_mathematics_logic/logic/logical-thinking-conclusion.md)
+- ~~**실험방법론**: [실험 방법론 학습하기](https://github.com/username/experimentation)~~
+
 ---
 
 ## Step 1: **CS & Software Development**
@@ -35,6 +35,7 @@
 - ~~**자바 프로그래밍**: [자바 프로그래밍 학습하기](https://github.com/username/java)~~
 - ~~**컴퓨터 구조**: [컴퓨터 구조 학습하기](https://github.com/username/computer-architecture)~~
 - ~~**프로그래밍 개념**: [프로그래밍 개념 학습하기](https://github.com/username/programming-concepts)~~
+- ~~**웹 크롤링**: [웹 크롤링 학습하기](https://github.com/username/web-crawling)~~
 
 ---
 
@@ -76,21 +77,18 @@
 - ~~**프롬프트 엔지니어링**: [프롬프트 엔지니어링 학습하기](https://github.com/username/prompt-engineering)~~
 - ~~**신경과학**: [신경과학 학습하기](https://github.com/username/neuroscience)~~
 - ~~**과학철학**: [과학 철학 학습하기](https://github.com/username/philosophy)~~
-- ~~**실험방법론**: [실험 방법론 학습하기](https://github.com/username/experimentation)~~
-- ~~**논리학 및 추론 복습**: [논리학 복습하기](https://github.com/username/logic)~~
+- ~~**양자컴퓨팅**: [양자컴퓨팅 학습하기](https://github.com/username/quantum-computing)~~
 
 ---
 
 이 로드맵을 단계별로 따라가며 자신의 학습 속도에 맞도록 유연하게 적용해보는게 어떨까 싶습니다. 실습 프로젝트를 통해 주기적으로 주제를 다시 학습하고 이해도를 향상시켜 봅시다.
 
---- 
-**디렉터리 구조 설명**:
+---
+
+### 디렉터리 구조 설명
 - **step_0_mathematics_logic/**: 수학과 논리학 관련 학습 자료
 - **step_1_cs_software_development/**: 컴퓨터 과학 및 소프트웨어 개발 관련 자료
 - **step_2_data_engineering_cloud/**: 데이터 엔지니어링과 클라우드 컴퓨팅 학습 자료
 - **step_3_machine_learning_ai/**: 머신러닝과 인공지능 관련 학습 자료
 - **step_4_data_analytics_visualization/**: 데이터 분석 및 시각화 관련 자료
 - **step_5_specialized_topics/**: 프롬프트 엔지니어링, 신경과학 등
-
----
-

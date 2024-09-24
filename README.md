@@ -25,7 +25,7 @@
     - [Chapter 1: 서론 - 사고력이 왜 중요한가?](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter1.md)
     - [Chapter 2: 논리적 사고](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter2.md)
     - [Chapter 3: 비판적 사고](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter3.md)
-    - [Chapter 4: 논리적 오류 - 피해야 할 사고의 함정](step_0_mathematics_logic/critical-thinkingc/critical-thinking-chapter4.md)
+    - [Chapter 4: 논리적 오류 - 피해야 할 사고의 함정](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter4.md)
     - [Chapter 5: 논리적 사고를 강화하는 구체적 훈련 방법](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter5.md)
     - [Chapter 6: 인지적 편향과 사고의 오류 교정](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter6.md)
     - [Chapter 7: 문제 해결을 위한 논리적 강화 기법](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter7.md)

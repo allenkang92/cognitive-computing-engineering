@@ -20,7 +20,7 @@
     - [Chapter 4: 가설 추론](step_0_mathematics_logic/logical-thinking/logical-thinking-chapter4.md)
     - [Chapter 5: 논리적 오류](step_0_mathematics_logic/logical-thinking/logical-thinking-chapter5.md)
     - [Chapter 6: 논리적 강화와 약화 기법](step_0_mathematics_logic/logical-thinking/logical-thinking-chapter6.md)
-    - [결론 - 논리적 사고의 실생활 적용과 향상 방법](step_0_mathematics_logic/logical-thinking/logical-thinking-conclusion.md)
+    - [결론: 논리적 사고의 실생활 적용과 향상 방법](step_0_mathematics_logic/logical-thinking/logical-thinking-conclusion.md)
 - **비판적으로 사고하기**: ['비판적으로 사고하기' 학습하기](step_0_mathematics_logic/critical-thinking)
     - [Chapter 1: 서론 - 사고력이 왜 중요한가?](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter1.md)
     - [Chapter 2: 논리적 사고](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter2.md)

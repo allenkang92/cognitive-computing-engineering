@@ -21,7 +21,7 @@
     - [Chapter 5: Fallacies and Arguments](step_0_mathematics_logic/logic/logical-thinking-chapter5.md)
     - [Chapter 6: Practical Applications](step_0_mathematics_logic/logic/logical-thinking-chapter6.md)
     - [Conclusion](step_0_mathematics_logic/logic/logical-thinking-conclusion.md)
-- **논리학**: [논리학 학습하기](step_0_mathematics_logic/logic)
+- **비판적으로 사고하기**: ['비판적으로 사고하기' 학습하기](step_0_mathematics_logic/logic)
     - [Chapter 1: Introduction to Logical Thinking](step_0_mathematics_logic/logic/logical-thinking-chapter1.md)
     - [Chapter 2: Logical Reasoning](step_0_mathematics_logic/logic/logical-thinking-chapter2.md)
     - [Chapter 3: Deductive Reasoning](step_0_mathematics_logic/logic/logical-thinking-chapter3.md)

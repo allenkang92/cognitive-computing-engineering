@@ -6,13 +6,9 @@
 
 ---
 
-## Step 0: **Mathematics & Logic**
+## Step 0: Mathematics & Logic
 수학과 논리학의 기초를 가지고 컴퓨터 과학, 알고리즘 및 머신러닝을 이해하는 데 필요한 기반을 구축합니다.
 
-- ~~**미적분**: [미적분 학습하기](https://github.com/username/calculus)~~
-- ~~**선형대수**: [선형대수 학습하기](https://github.com/username/linear-algebra)~~
-- ~~**확률과 통계**: [확률과 통계 학습하기](https://github.com/username/probability-statistics)~~
-- ~~**과학철학**: [과학 철학 학습하기](https://github.com/username/philosophy)~~
 - **논리적으로 사고하기**: ['논리적으로 사고하기' 학습하기](step_0_mathematics_logic/logical-thinking)
     - [Chapter 1: 인지적 틀과 논리적 사고의 기초](step_0_mathematics_logic/logical-thinking/logical-thinking-chapter1.md)
     - [Chapter 2: 연역적 추론](step_0_mathematics_logic/logical-thinking/logical-thinking-chapter2.md)
@@ -35,33 +31,46 @@
     - [Chapter 11: 사고력 훈련을 위한 지속적 피드백 시스템](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter11.md)
     - [Chapter 12: 일상을 바꾸는 사고력의 실천](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter12.md)
     - [결론: 논리적 사고의 지속적인 발전](step_0_mathematics_logic/critical-thinking/critical-thinking-conclusion.md)
+- ~~**과학철학**: [과학 철학 학습하기](https://github.com/username/philosophy)~~
 - ~~**연구방법론**: [연구방법론 학습하기](https://github.com/username/experimentation)~~
+- ~~**선형대수**: [선형대수 학습하기](https://github.com/username/linear-algebra)~~
+- ~~**확률과 통계**: [확률과 통계 학습하기](https://github.com/username/probability-statistics)~~
+- ~~**미적분**: [미적분 학습하기](https://github.com/username/calculus)~~
 
----
 
-## Step 1: **CS & Software Development**
+## Step 1: CS & Software Development
 컴퓨터 과학의 기본적인 개념, 소프트웨어 개발 기술을 학습해 프로그래밍 능력과 컴퓨터 과학 지식을 쌓고자 합니다.
 
-- **쉘 스크립팅** : [쉘 스크립팅 학습하기](https://github.com/allenkang92/shell-scripting-starter.git)
-- **SQL 및 데이터베이스**: [SQL 및 데이터베이스 학습하기](https://github.com/allenkang92/database-basics.git)
-- ~~**운영체제**: [운영체제 학습하기](https://github.com/username/os)~~
-- ~~**자료구조 & 알고리즘**: [자료구조와 알고리즘 학습하기](https://github.com/username/data-structures-algorithms)~~
-- ~~**네트워크 기초**: [네트워크 학습하기](https://github.com/username/networking)~~
-- ~~**파이썬 프로그래밍**: [파이썬 프로그래밍 학습하기](https://github.com/username/python-programming)~~
-- ~~**자바 프로그래밍**: [자바 프로그래밍 학습하기](https://github.com/username/java)~~
-- ~~**컴퓨터 구조**: [컴퓨터 구조 학습하기](https://github.com/username/computer-architecture)~~
 - ~~**프로그래밍 개념**: [프로그래밍 개념 학습하기](https://github.com/username/programming-concepts)~~
-- ~~**웹 크롤링**: [웹 크롤링 학습하기](https://github.com/username/web-crawling)~~
+- ~~**파이썬 프로그래밍**: [파이썬 프로그래밍 학습하기](https://github.com/username/python-programming)~~
 - ~~**버전 관리**: [깃을 통한 버전 관리 학습하기](https://github.com/username/version-control)~~
+- **SQL 및 데이터베이스**: [SQL 및 데이터베이스 학습하기](https://github.com/allenkang92/database-basics.git)
+- ~~**자료구조 & 알고리즘**: [자료구조와 알고리즘 학습하기](https://github.com/username/data-structures-algorithms)~~
+- ~~**운영체제**: [운영체제 학습하기](https://github.com/username/os)~~
+- ~~**네트워크 기초**: [네트워크 학습하기](https://github.com/username/networking)~~
+- ~~**컴퓨터 구조**: [컴퓨터 구조 학습하기](https://github.com/username/computer-architecture)~~
+- **쉘 스크립팅** : [쉘 스크립팅 학습하기](https://github.com/allenkang92/shell-scripting-starter.git)
+- ~~**자바 프로그래밍**: [자바 프로그래밍 학습하기](https://github.com/username/java)~~
+- ~~**웹 크롤링**: [웹 크롤링 학습하기](https://github.com/username/web-crawling)~~
 
----
-
-## Step 2: **Data Engineering & Cloud Computing**
+## Step 2: Data Engineering & Cloud Computing
 데이터를 추출, 변환, 적재(ETL)하고 대규모 데이터를 처리하며, 확장 가능한 클라우드 인프라를 설정하는 방법을 학습합니다.
 
+- ~~**ETL 프로세스**: [ETL 프로세스 학습하기](https://github.com/username/etl-process)~~
 - ~~**Airflow for ETL**: [Airflow 학습하기](https://github.com/username/airflow-etl)~~
 - ~~**Apache Spark**: [Apache Spark 학습하기](https://github.com/username/apache-spark)~~
 - ~~**Kafka와 Flink**: [Kafka & Flink 학습하기](https://github.com/username/kafka-flink)~~
+
+## Step 3: Data Analytics & Visualization
+이 단계에서는 데이터를 분석하고 최신 도구와 기술을 사용해 인사이트를 시각화하는 방법을 학습합니다.
+
+- ~~**데이터 시각화**: [시각화 학습하기](https://github.com/username/visualization-projects)~~
+- ~~**OLAP 시스템**: [OLAP 학습하기](https://github.com/username/olap-systems)~~
+- ~~**Excel을 사용한 데이터 분석**: [Excel 학습하기](https://github.com/username/excel-analysis)~~
+
+## Step 4: Cloud & Infrastructure
+클라우드 환경에서의 데이터 처리와 인프라 관리에 대해 학습합니다.
+
 - ~~**Docker 학습하기**: [Docker 학습하기](https://github.com/username/docker)~~
 - ~~**Kubernetes**: [Kubernetes 학습하기](https://github.com/username/kubernetes)~~
 - ~~**클라우드 컴퓨팅**: [클라우드 컴퓨팅 학습하기](https://github.com/username/cloud-computing)~~
@@ -69,33 +78,21 @@
 - ~~**CI/CD 파이프라인**: [Jenkins 및 GitHub Actions를 사용한 CI/CD 학습하기](https://github.com/username/cicd-pipelines)~~
 - ~~**모니터링과 로그 분석**: [모니터링과 로그 분석 학습하기](https://github.com/username/monitoring-and-log-analysis)~~
 
----
-
-## Step 3: **Machine Learning & AI**
+## Step 5: Machine Learning & AI
 이 단계에서는 머신러닝 및 인공지능 모델을 구축하고 데이터를 분석하고 예측하는 방법을 학습합니다.
 
-- ~~**인공지능**: [인공지능 학습하기](https://github.com/username/artificial-intelligence)~~
 - ~~**머신러닝**: [머신러닝 학습하기](https://github.com/username/machine-learning)~~
 - ~~**딥러닝**: [딥러닝 학습하기](https://github.com/username/deep-learning)~~
+- ~~**인공지능**: [인공지능 학습하기](https://github.com/username/artificial-intelligence)~~
 
----
-
-## Step 4: **Data Analytics & Visualization**
-이 단계에서는 데이터를 분석하고 최신 도구와 기술을 사용해 인사이트를 시각화하는 방법을 학습합니다.
-
-- ~~**데이터 시각화**: [시각화 학습하기](https://github.com/username/visualization-projects)~~
-- ~~**OLAP 시스템**: [OLAP 학습하기](https://github.com/username/olap-systems)~~
-- ~~**확률과 통계 복습**: [확률과 통계 복습하기](https://github.com/username/probability-statistics)~~
-- ~~**Excel을 사용한 데이터 분석**: [Excel 학습하기](https://github.com/username/excel-analysis)~~
-
----
-
-## Step 5: **Specialized Topics**
+## Step 6: Specialized Topics
 마지막 단계에서는 현대 컴퓨팅과 관련된 주제들을 학습합니다.
 
 - ~~**프롬프트 엔지니어링**: [프롬프트 엔지니어링 학습하기](https://github.com/username/prompt-engineering)~~
 - ~~**신경과학**: [신경과학 학습하기](https://github.com/username/neuroscience)~~
 - ~~**양자컴퓨팅**: [양자컴퓨팅 학습하기](https://github.com/username/quantum-computing)~~
+- ~~**포렌식**: [포렌식 학습하기](https://github.com/username/forensic)~~
+
 
 ---
 
@@ -107,6 +104,7 @@
 - **step_0_mathematics_logic/**: 수학과 논리학 관련 학습 자료
 - **step_1_cs_software_development/**: 컴퓨터 과학 및 소프트웨어 개발 관련 자료
 - **step_2_data_engineering_cloud/**: 데이터 엔지니어링과 클라우드 컴퓨팅 학습 자료
-- **step_3_machine_learning_ai/**: 머신러닝과 인공지능 관련 학습 자료
-- **step_4_data_analytics_visualization/**: 데이터 분석 및 시각화 관련 자료
-- **step_5_specialized_topics/**: 프롬프트 엔지니어링, 신경과학 등
+- **step_3_data_analytics_visualization/**: 데이터 분석 및 시각화 관련 자료
+- **step_4_cloud_infrastructure/**: 클라우드 및 인프라 관련 학습 자료
+- **step_5_machine_learning_ai/**: 머신러닝과 인공지능 관련 학습 자료
+- **step_6_specialized_topics/**: 프롬프트 엔지니어링, 신경과학 등

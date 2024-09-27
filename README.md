@@ -32,6 +32,7 @@
     - [Chapter 12: 일상을 바꾸는 사고력의 실천](step_0_mathematics_logic/critical-thinking/critical-thinking-chapter12.md)
     - [결론: 논리적 사고의 지속적인 발전](step_0_mathematics_logic/critical-thinking/critical-thinking-conclusion.md)
 - ~~**과학철학**: [과학 철학 학습하기](https://github.com/username/philosophy)~~
+- ~~**인지과학**: [인지과학 학습하기](https://github.com/username/cognitivescience)~~
 - ~~**연구방법론**: [연구방법론 학습하기](https://github.com/username/experimentation)~~
 - ~~**선형대수**: [선형대수 학습하기](https://github.com/username/linear-algebra)~~
 - ~~**확률과 통계**: [확률과 통계 학습하기](https://github.com/username/probability-statistics)~~
@@ -88,11 +89,11 @@
 ## Step 6: Specialized Topics
 마지막 단계에서는 현대 컴퓨팅과 관련된 주제들을 학습합니다.
 
-- ~~**프롬프트 엔지니어링**: [프롬프트 엔지니어링 학습하기](https://github.com/username/prompt-engineering)~~
+- **프롬프트 엔지니어링**: [프롬프트 엔지니어링 학습하기](https://github.com/username/prompt-engineering)
 - ~~**신경과학**: [신경과학 학습하기](https://github.com/username/neuroscience)~~
 - ~~**양자컴퓨팅**: [양자컴퓨팅 학습하기](https://github.com/username/quantum-computing)~~
 - ~~**포렌식**: [포렌식 학습하기](https://github.com/username/forensic)~~
-
+- ~~**생물정보학**: [생물정보학 학습하기](https://github.com/username/bioinformatics)~~
 
 ---
 
